@@ -1,9 +1,33 @@
 {
   "breads": [
-    { "id": 1, "name": "Sourdough", "desc": "Sourdough or sourdough bread is a bread made by the fermentation of dough using wild lactobacillaceae and yeast. Lactic acid from fermentation imparts a sour taste and improves keeping qualities.", "imageLink": "https://www.homecookingadventure.com/wp-content/uploads/2023/05/123-Sourdough-Bread-main1.webp", "link": "https://en.wikipedia.org/wiki/Sourdough" },
-    { "id": 2, "name": "Baguette", "desc": "A baguette is a long, thin type of bread of French origin that is commonly made from basic lean dough. It is distinguishable by its length and crisp crust.", "imageLink": "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/8-3-large.jpg?itok=fRNQugY8", "link": "https://en.wikipedia.org/wiki/Baguette" },
-    { "id": 3, "name": "Focaccia", "desc": "Focaccia is a flat leavened oven-baked Italian bread. In some contemporary places, such as Rome, it is a style of pizza, also called pizza bianca. Focaccia may be served as a side dish or as sandwich bread and it may be round, rectangular, or square shape.", "imageLink": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/foccacia-s-olivami-a-rozmarynem?v=1666790822", "link": "https://en.wikipedia.org/wiki/Focaccia" },
-    { "id": 4, "name": "Brioche", "desc": "Brioche is a pastry of French origin whose high egg and butter content gives it a rich and tender crumb. The chef Robuchon described it as light and slightly puffy, more or less fine, according to the proportion of butter and eggs. It has a dark, golden, and flaky crust, frequently accentuated by an egg wash applied after proofing.</", "imageLink": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/51/54/6/oz1Qn4MJSe6oH1c8bXNC_brioche-3.jpg", "link": "https://en.wikipedia.org/wiki/Brioche" },
+    { 
+      "id": 1, 
+      "name": "Sourdough", 
+      "desc": "Sourdough or sourdough bread is a bread made by the fermentation of dough using wild lactobacillaceae and yeast. Lactic acid from fermentation imparts a sour taste and improves keeping qualities.", 
+      "imageLink": "https://www.homecookingadventure.com/wp-content/uploads/2023/05/123-Sourdough-Bread-main1.webp", 
+      "link": "https://en.wikipedia.org/wiki/Sourdough" 
+    },
+    { 
+      "id": 2, 
+      "name": "Baguette", 
+      "desc": "A baguette is a long, thin type of bread of French origin that is commonly made from basic lean dough. It is distinguishable by its length and crisp crust.", 
+      "imageLink": "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/8-3-large.jpg?itok=fRNQugY8", 
+      "link": "https://en.wikipedia.org/wiki/Baguette" 
+    },
+    { 
+      "id": 3, 
+      "name": "Focaccia", 
+      "desc": "Focaccia is a flat leavened oven-baked Italian bread. In some contemporary places, such as Rome, it is a style of pizza, also called pizza bianca. Focaccia may be served as a side dish or as sandwich bread and it may be round, rectangular, or square shape.", 
+      "imageLink": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/foccacia-s-olivami-a-rozmarynem?v=1666790822", 
+      "link": "https://en.wikipedia.org/wiki/Focaccia" 
+    },
+    { 
+      "id": 4, 
+      "name": "Brioche", 
+      "desc": "Brioche is a pastry of French origin whose high egg and butter content gives it a rich and tender crumb. The chef Robuchon described it as light and slightly puffy, more or less fine, according to the proportion of butter and eggs. It has a dark, golden, and flaky crust, frequently accentuated by an egg wash applied after proofing.", 
+      "imageLink": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/51/54/6/oz1Qn4MJSe6oH1c8bXNC_brioche-3.jpg", 
+      "link": "https://en.wikipedia.org/wiki/Brioche" 
+    }
   ],
   "profile": {
     "name": "typicode"
